@@ -361,3 +361,4 @@ If your system has the `make` command, you can automate those tasks by calling:
     
 
 You can learn more about how the test suite works and how to write new tests in the [test/README.md](test/README.md) file.
+.
